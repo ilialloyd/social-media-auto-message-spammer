@@ -7,7 +7,7 @@ This Java program is a simple spam tool that allows you to send same message man
 The program is designed to be easy to use and can be run on any machine with Java installed.
 
 ### Requirements
-- Java JDK 8 or later
+- Java JDK 17 or later
 - Internet connection
 
 ### Installation
