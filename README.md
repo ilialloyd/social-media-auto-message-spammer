@@ -14,7 +14,7 @@ The program is designed to be easy to use and can be run on any machine with Jav
 1. Download the latest release of the program from the project's GitHub page. ``` Code -> Download ZIP ```
 2. Extract the downloaded archive to a folder on your computer.
 3. Open the terminal or command prompt. On windows ``` Ctrl+R -> cmd+Enter ``` or ``` Windows -> cmd+Enter ```
-4. Navigate to the extracted folder. On windows example  ``` cd cd C:\Users\Owner\Desktop\social-media-auto-message-spammer-main\src ```
+4. Navigate to the extracted folder. On windows example  ``` cd C:\Users\Owner\Desktop\social-media-auto-message-spammer-main\src ```
 5. Compile the program using the following command: 
 ``` javac Messager.java ```
 
