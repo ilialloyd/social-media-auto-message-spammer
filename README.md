@@ -21,13 +21,13 @@ The program is designed to be easy to use and can be run on any machine with Jav
 6. Run the program using the following command:
 ``` java Messager ```
 
-## Usage
+### Usage
 1. Enter the number of times you want to send the massage
 2. Enter the Text you want to send
 3. Put cursor to the right place you want to write & send
 
-## Limitations
+### Limitations
 Please note that this program is for educational purposes only and should not be used for malicious activities. Sending spam messages can have serious consequences and may be illegal in your country.
 
-## License
+### License
 This program is licensed under the MIT License. You are free to use, modify, and distribute the program as long as you include the original copyright notice and license terms. See the LICENSE file for more details.
