@@ -25,6 +25,7 @@ The program is designed to be easy to use and can be run on any machine with Jav
 1. Enter the number of times you want to send the massage
 2. Enter the Text you want to send
 3. Put cursor to the right place you want to write & send
+4. After every order program will finish itself. Ifyou want to repeat again with different text, then do ``` java Messager ``` again
 
 ### Limitations
 Please note that this program is for educational purposes only and should not be used for malicious activities. Sending spam messages can have serious consequences and may be illegal in your country.
