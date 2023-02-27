@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Leave your comment below if you have
  * --------------------------------------------------------
  */
-public class Main {
+public class Messager {
     public static void main(String[] args) throws AWTException, InterruptedException {
 
         //message start Count
