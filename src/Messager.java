@@ -2,6 +2,7 @@ import java.awt.*;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
+import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 /**
@@ -28,7 +29,7 @@ public class Messager {
         System.out.println("How many times do you want to send the text:");
         int messageRepeatingTime=sc.nextInt();
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in, StandardCharsets.UTF_8);
         System.out.println("Enter the text:");
         String text = scanner.nextLine();
         scanner.close();
