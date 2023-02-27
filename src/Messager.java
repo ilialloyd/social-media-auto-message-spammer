@@ -42,7 +42,7 @@ public class Messager {
 
         System.out.println("Spamming will start in a 5 seconds");
 
-        System.out.println("Put your cursor in a window, place, social media page you want to write");
+        System.out.println("Put your cursor in a text area, you want to write");
 
         while(spamStartingSecond>=1){
 
